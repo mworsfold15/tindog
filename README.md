@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -11,6 +12,9 @@
 
 ## General info
 An example marketing site to entice customers to download an app
+
+## Screenshots
+![Example screenshot](images/tindog-landing-page.png)
 
 ## Technologies
 * HTML 5
